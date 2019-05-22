@@ -81,7 +81,7 @@ Reboot the board connect to board in station mode. You should see a WiFi access 
 
 <img src="images/esptunes-page.png"></img>
 
-** Plans for future release
+## Plans for future release
 
 * Ability to delete selected files
 * Ability to edit and save file
