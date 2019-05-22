@@ -79,3 +79,13 @@ $ ampy -p COM3 main.py
 
 Reboot the board connect to board in station mode. You should see a WiFi access point like MicroPython-adaXXX. Use the password "micropythoN" to connect to it. Go to your favourite browser type http://192.168.4.1/. If everything goes well, you should welcomed with a screen like this below.
 
+<img src="images/esptunes-page.png"></img>
+
+** Plans for future release
+
+* Ability to delete selected files
+* Ability to edit and save file
+* Warning if user tries to overwrite an existing file
+* Integrate with ssd1306 oled module
+
+Please suggest if you can think of a cool addition to the tool!
