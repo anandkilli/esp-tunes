@@ -1,6 +1,6 @@
 # ESPTunes - A Micro Python based offline web editore for WeMos D1 Mini to play music using buzzer
 
-For a complete guide and demo, visit this video: 
+For a complete guide and demo, visit this video: [https://youtu.be/MAX7ImpXq9w](https://youtu.be/MAX7ImpXq9w)
 
 ## Schematic
 
